@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [working on it]
+<!-- - 👨‍💻 All of my projects are available at [working on it] -->
 
 - 📫 How to reach me **tannaharinadh@gmail.com**
 <h3 align="left">Open Source Badges: </h3>
