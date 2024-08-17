@@ -27,8 +27,9 @@
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width = "200px" height= "200px">
 
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGFqeHF4eTUwNDMzMDhqc3k3bXp1NmlwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width= "200px" height = "200px"> -->
+![cat-funny-cat](https://github.com/user-attachments/assets/d89b6ec3-9d74-42d1-b2d2-041bc55f97ef)
 
-<img href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">
+
 
 
 <h3 align="left">Profiles:</h3>
