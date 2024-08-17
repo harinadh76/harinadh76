@@ -8,7 +8,7 @@
 <!-- Profile VIEWS counter end -->
 
 <!-- About Start -->
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d89b6ec3-9d74-42d1-b2d2-041bc55f97ef">
+<img align="right" alt="coding" width="400" height="200" src="https://github.com/user-attachments/assets/d89b6ec3-9d74-42d1-b2d2-041bc55f97ef">
 
 
 - 👩🏻‍💻 Software Engineer
