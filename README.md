@@ -33,6 +33,7 @@
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/d89b6ec3-9d74-42d1-b2d2-041bc55f97ef" alt="animated" width="250px"/>
 </p> -->
+![rust-ferris](https://github.com/user-attachments/assets/51b4b93c-21b8-4de3-8d18-4f0ecc56d335)
 
 
 
