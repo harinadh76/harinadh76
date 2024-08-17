@@ -29,7 +29,7 @@
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGFqeHF4eTUwNDMzMDhqc3k3bXp1NmlwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width= "200px" height = "200px"> -->
 <!-- ![cat-funny-cat](https://github.com/user-attachments/assets/d89b6ec3-9d74-42d1-b2d2-041bc55f97ef) -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d89b6ec3-9d74-42d1-b2d2-041bc55f97ef" alt="animated" width="500px"/>
+  <img src="https://github.com/user-attachments/assets/d89b6ec3-9d74-42d1-b2d2-041bc55f97ef" alt="animated" width="250px"/>
 </p>
 
 
