@@ -63,7 +63,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinadh76&show_icons=true&locale=en" alt="harinadh76" /></p> -->
 <!-- Github Stats Dark Theme -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinadh76&show_icons=true&locale=en&theme=radical&hide_border=false" alt="harinadh76" /></p>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=harinadh76&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=harinadh76&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 <!-- Github Streak Stats White -->
