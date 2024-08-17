@@ -55,6 +55,9 @@
 <!-- Github Streak Stats Dark -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harinadh76&theme=radical&hide_border=false" alt="harinadh76" /></p>
 
+<!-- Github Trophies Dark -->
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harinadh76&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
