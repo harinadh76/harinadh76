@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harinadh</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Full Stack Developer ( MERN/MEAN )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinadh76&label=Profile%20views&color=0e75b6&style=flat" alt="harinadh76" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 👩🏻‍💻 Software Engineer
 
-- 🌱 I’m currently learning **NextJS and Devops**
+- 🌱 Currently learning **NextJS and Devops**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -30,7 +30,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinadh76&show_icons=true&locale=en" alt="harinadh76" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinadh76&show_icons=true&locale=en" alt="harinadh76" /></p> -->
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harinadh76&" alt="harinadh76" /></p>
 
