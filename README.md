@@ -28,9 +28,9 @@
 
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGFqeHF4eTUwNDMzMDhqc3k3bXp1NmlwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width= "200px" height = "200px">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harinadh-tanna-45b392211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harinadh-tanna-45b392211/" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/harinadh-tanna-45b392211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harinadh-tanna-45b392211/" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/harinadh76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harinadh76" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/20l31a05n4_hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20l31a05n4_hari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harinadhtanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harinadhtanna" height="30" width="40" /></a>
