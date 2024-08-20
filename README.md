@@ -19,7 +19,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [working on it] -->
 
-- 📫 How to reach me **tannaharinadh@gmail.com**
+- 📫 How to reach me **tannaharinadh@gmail.com** , **hari.py**
 
 <!-- ABOUT End -->
 
