@@ -13,7 +13,7 @@
 
 - 👩🏻‍💻 Software Engineer
 
-- 🌱 Currently working on **Gen AI**
+- 🌱 Currently working on **Agentic AI, NodeJs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
