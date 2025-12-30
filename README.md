@@ -13,7 +13,7 @@
 
 - 👩🏻‍💻 Software Engineer
 
-- 🌱 Currently learning **NextJS and Devops**
+- 🌱 Currently working on **Gen AI**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
