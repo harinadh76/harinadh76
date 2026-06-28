@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harinadh</h1>
-<h3 align="center">Full Stack Developer ( MERN/MEAN )</h3>
+<h3 align="center">Software Development Engineer • AI Engineer</h3>
 
 <!-- Profile VIEWS counter start -->
 
@@ -11,11 +11,17 @@
 <img align="right" alt="coding" width="350" height="200" src="https://github.com/user-attachments/assets/51b4b93c-21b8-4de3-8d18-4f0ecc56d335">
 
 
-- 👩🏻‍💻 Software Engineer
+- 👨🏻‍💻 Software Development Engineer & AI Enthusiast
 
-- 🌱 Currently working on **Agentic AI**
+- 🌱 Currently working on **Agentic AI, LangGraph, RAG Systems & Scalable Backend Architectures**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🚀 Building with **Python, Node.js & AI Workflows**
+
+- 👯 Looking to collaborate on **Open Source & AI Projects**
+
+- 🧠 Exploring **Multi-Agent Systems, Deterministic RAG & GenAI Infrastructure**
+
+- 🏆 MLH Hackathon Winner
 
 <!-- - 👨‍💻 All of my projects are available at [working on it] -->
 
